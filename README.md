@@ -31,5 +31,5 @@
 
 --> Compared models using MAE, MSE, RMSE, and R²
 
---> XGBoost gave the best performance with an R² of 0.9983
+--> XGBoost gave the best performance with an R² of 0.9978
 
